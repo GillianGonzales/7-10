@@ -3,9 +3,9 @@
 -- main.lua
 --
 -- Created by: Gillian Gonzales
--- Created on: May 07 2018
+-- Created on: May 08 2018
 -- 
--- This file animates a charact using a spritesheet
+-- This file animates a charact using a spritesheet when they move 
 -----------------------------------------------------------------------------------------
 
 display.setStatusBar(display.HiddenStatusBar)
